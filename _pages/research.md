@@ -4,6 +4,11 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
+
+**Mildly Overparameterized ReLU Networks Have a
+Favorable Loss Landscape**\
+**Kedar Karhadkar**, Michael Murray, Hanna Tseran, and Guido Montúfar. Preprint: [arXiv:2305.19510](https://arxiv.org/abs/2305.19510).
+
 *FoSR: First-order spectral rewiring for addressing oversquashing in GNNs*\
 **Kedar Karhadkar**, Pradeep Kr. Banerjee, and Guido Montúfar. The Eleventh International Conference on Learning Representations (ICLR 2023). Preprint: [arXiv:2210.11790](https://arxiv.org/abs/2210.11790)
 

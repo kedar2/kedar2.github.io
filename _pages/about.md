@@ -13,6 +13,13 @@ I am a second year math PhD student at UCLA interested in machine learning. I am
 
 <h1> News </h1>
 
+06/2023: I will be spending the summer as a visiting researcher at the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de/) in Leipzig, Germany.
+
+06/2023: I am reviewing for [NeurIPS 2023](https://nips.cc/Conferences/2023).
+
+05/2023: We posted a new preprint [Mildly Overparameterized ReLU Networks Have a
+Favorable Loss Landscape](https://arxiv.org/abs/2305.19510).
+
 02/2023: I am reviewing for [ICML 2023](https://icml.cc/Conferences/2023).
 
 01/2023: Our paper [FoSR: First-order spectral rewiring for addressing oversquashing in GNNs](https://arxiv.org/abs/2210.11790) was accepted to [ICLR 2023](https://iclr.cc/Conferences/2023).
