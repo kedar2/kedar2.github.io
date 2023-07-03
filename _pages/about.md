@@ -8,7 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a second year math PhD student at UCLA interested in machine learning. I am advised by [Guido Montúfar](https://www.math.ucla.edu/~montufar/). My recent work has been on understanding optimization landscapes in deep learning, and addressing long-range interactions in graph neural networks. Before coming to UCLA, I was an undergraduate at Penn State, where I also studied math. My résumé is available [here](Resume.pdf).
+I am a second year math PhD student at UCLA advised by [Guido Montúfar](https://www.math.ucla.edu/~montufar/). My recent work has been on understanding optimization landscapes in deep learning, and designing architectures for graph neural networks which incorporate long-range interactions. Some of my research interests are
+
+- Graph neural networks and graph transformers
+- Optimization theory and training dynamics in deep learning
+- Algebraic and combinatorial approaches to machine learning
+
+Before coming to UCLA, I completed my undergraduate degree in mathematics at Penn State. My résumé is available [here](Resume.pdf).
 
 
 <h1> News </h1>
