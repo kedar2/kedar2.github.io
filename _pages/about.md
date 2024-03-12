@@ -12,6 +12,8 @@ I am a third year math PhD student at UCLA advised by [Guido Montúfar](https://
 
 
 <h1> News </h1>
+03/2024: We posted a new preprint [Benign overfitting in leaky ReLU networks with moderate input dimension](https://arxiv.org/abs/2403.06903)
+
 01/2024: I attended the [Advanced Studies Institute in Mathematics of Data Science and Machine Learning](https://www.fullerton.edu/ires-uz/asi/asi_datascience/asi_datasci.php) in Uzbekistan.
 
 06/2023: I will be spending the summer as a visiting researcher at the [Max Planck Institute for Mathematics in the Sciences](https://www.mis.mpg.de/) in Leipzig, Germany.

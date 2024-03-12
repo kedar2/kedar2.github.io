@@ -5,6 +5,9 @@ permalink: /research/
 author_profile: true
 ---
 
+*Benign overfitting in leaky ReLU networks with moderate input dimension*\
+**Kedar Karhadkar**, Erin George, Michael Murray, Guido Montúfar, and Deanna Needell. Preprint: [arXiv:2403.06903](https://arxiv.org/abs/2403.06903).
+
 *Mildly Overparameterized ReLU Networks Have a
 Favorable Loss Landscape*\
 **Kedar Karhadkar**, Michael Murray, Hanna Tseran, and Guido Montúfar. Preprint: [arXiv:2305.19510](https://arxiv.org/abs/2305.19510).
