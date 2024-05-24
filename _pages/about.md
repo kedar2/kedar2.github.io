@@ -14,7 +14,7 @@ I am a third year math PhD student at UCLA advised by [Guido Montúfar](https://
 <h1> News </h1>
 06/2024: This summer I will be a quantitative research intern at [SIG](https://www.sig.com/).
 
-05/24: We posted a new preprint [Bounds for the smallest eigenvalue of the NTK for arbitrary spherical data of arbitrary dimension](https://arxiv.org/abs/2405.14630).
+05/2024: We posted a new preprint [Bounds for the smallest eigenvalue of the NTK for arbitrary spherical data of arbitrary dimension](https://arxiv.org/abs/2405.14630).
 
 03/2024: We posted a new preprint [Benign overfitting in leaky ReLU networks with moderate input dimension](https://arxiv.org/abs/2403.06903).
 
