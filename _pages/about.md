@@ -12,13 +12,11 @@ I am a third year math PhD student at UCLA advised by [Guido Montúfar](https://
 
 
 <h1> News </h1>
+10/2024: Two of our papers, [Benign overfitting in leaky ReLU networks with moderate input dimension](https://arxiv.org/abs/2403.06903) and [Bounds for the smallest eigenvalue of the NTK for arbitrary spherical data of arbitrary dimension](https://arxiv.org/abs/2405.14630), were accepted to [NeurIPS 2024](https://neurips.cc/)!
+
 06/2024: This summer I will be a quantitative research intern at [SIG](https://www.sig.com/).
 
 06/2024: Our paper [Mildly Overparameterized ReLU Networks Have a Favorable Loss Landscape](https://arxiv.org/abs/2305.19510) was accepted to [TMLR](https://www.jmlr.org/tmlr).
-
-05/2024: We posted a new preprint [Bounds for the smallest eigenvalue of the NTK for arbitrary spherical data of arbitrary dimension](https://arxiv.org/abs/2405.14630).
-
-03/2024: We posted a new preprint [Benign overfitting in leaky ReLU networks with moderate input dimension](https://arxiv.org/abs/2403.06903).
 
 01/2024: I attended the [Advanced Studies Institute in Mathematics of Data Science and Machine Learning](https://www.fullerton.edu/ires-uz/asi/asi_datascience/asi_datasci.php) in Uzbekistan.
 
