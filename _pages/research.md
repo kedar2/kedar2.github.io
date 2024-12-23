@@ -6,17 +6,17 @@ author_profile: true
 ---
 
 1) *Bounds for the smallest eigenvalue of the NTK for arbitrary spherical data of arbitrary dimension*\
-**Kedar Karhadkar**, Michael Murray, and Guido Montúfar. Accepted to NeurIPS 2024. Preprint: [arXiv:2405.14630](https://arxiv.org/abs/2405.14630).
+**Kedar Karhadkar**, Michael Murray, and Guido Montúfar. NeurIPS 2024. Preprint: [arXiv:2405.14630](https://arxiv.org/abs/2405.14630).
 
 2) *Benign overfitting in leaky ReLU networks with moderate input dimension*\
-**Kedar Karhadkar**, Erin George, Michael Murray, Guido Montúfar, and Deanna Needell. Accepted to NeurIPS 2024. Preprint: [arXiv:2403.06903](https://arxiv.org/abs/2403.06903).
+**Kedar Karhadkar**, Erin George, Michael Murray, Guido Montúfar, and Deanna Needell. NeurIPS 2024. Preprint: [arXiv:2403.06903](https://arxiv.org/abs/2403.06903).
 
 3) *Mildly Overparameterized ReLU Networks Have a
 Favorable Loss Landscape*\
 **Kedar Karhadkar**, Michael Murray, Hanna Tseran, and Guido Montúfar. Transactions on Machine Learning Research. Preprint: [arXiv:2305.19510](https://arxiv.org/abs/2305.19510).
 
 4) *FoSR: First-order spectral rewiring for addressing oversquashing in GNNs*\
-**Kedar Karhadkar**, Pradeep Kr. Banerjee, and Guido Montúfar. The Eleventh International Conference on Learning Representations (ICLR 2023). Preprint: [arXiv:2210.11790](https://arxiv.org/abs/2210.11790)
+**Kedar Karhadkar**, Pradeep Kr. Banerjee, and Guido Montúfar. ICLR 2023. Preprint: [arXiv:2210.11790](https://arxiv.org/abs/2210.11790)
 
 5) *Sum index and difference index of simple graphs*\
 Joshua Harrington, Eugene Henninger-Voss, **Kedar Karhadkar**, Emily Robinson, and Tony W.H. Wong. Discrete Applied Mathematics (2023). Preprint: [arxiv:2008.09265](https://arxiv.org/abs/2008.09265).

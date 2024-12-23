@@ -20,7 +20,7 @@ with the gradient flow
 {: .text-center}
 $\dot{x}(t) =-\nabla L(x(t))$.
 
-and an arbitrary initialization $x_0 \in M$. Then
+and an arbitrary initialization $x_0 \in \mathbb{R}^m$. Then
 
 {: .text-center}
 $$
