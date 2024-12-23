@@ -7,6 +7,8 @@ author_profile: true
 
 I have served as a teaching assistant for the following courses:
 
+Fall 2024: Math 135 (Differential Equations) with Patrick Flynn
+
 Spring 2023: Math 171 (Stochastic Processes) with Aaron Palmer
 
 

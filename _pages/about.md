@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year math PhD student at UCLA advised by [Guido Montúfar](https://www.math.ucla.edu/~montufar/). I'm interested in deep learning theory, and particularly in determining when and why neural networks optimize and generalize well. My recent work has been on characterizing benign overfitting under relaxed data assumptions, and understanding the loss landscape and initialization of neural networks. I am also interested in graph neural networks (GNNs). Some of my past work focused on alleviating the issues of oversquashing and oversmoothing in GNNs using spectral properties of the underlying graph.  Before coming to UCLA, I completed my undergraduate degree in mathematics at Penn State. My résumé is available [here](Resume.pdf).
+I am a fourth year math PhD student at UCLA. My advisor is [Guido Montúfar](https://www.math.ucla.edu/~montufar/). I'm interested in deep learning theory, and particularly in determining when and why neural networks optimize and generalize well. My recent work characterizes benign overfitting under relaxed data assumptions, and studies the loss landscape and initialization of neural networks. I am also interested in graph neural networks (GNNs). Some of my past work focused on alleviating the issues of oversquashing and oversmoothing in GNNs using spectral properties of the underlying graph.
 
 
 <h1> News </h1>
-10/2024: Two of our papers, [Benign overfitting in leaky ReLU networks with moderate input dimension](https://arxiv.org/abs/2403.06903) and [Bounds for the smallest eigenvalue of the NTK for arbitrary spherical data of arbitrary dimension](https://arxiv.org/abs/2405.14630), were accepted to [NeurIPS 2024](https://neurips.cc/)!
+10/2024: Two of our papers, [Benign overfitting in leaky ReLU networks with moderate input dimension](https://arxiv.org/abs/2403.06903) and [Bounds for the smallest eigenvalue of the NTK for arbitrary spherical data of arbitrary dimension](https://arxiv.org/abs/2405.14630), were accepted to [NeurIPS 2024](https://neurips.cc/).
 
 06/2024: This summer I will be a quantitative research intern at [SIG](https://www.sig.com/).
 
