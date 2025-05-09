@@ -1,9 +1,36 @@
 ---
 layout: archive
-title: "Research"
-permalink: /research/
+title: "CV"
+permalink: /cv/
 author_profile: true
 ---
+
+# Education
+
+**PhD in Mathematics**\
+University of California, Los Angeles, August 2021 - Present 
+
+**Bachelor of Science in Mathematics**\
+Penn State University, August 2017 - May 2021
+
+# Experience
+
+**Machine Learning Engineering Intern**\
+Meta, June 2025 - September 2025
+
+**Quantitative Research Intern**\
+Susquehanna International Group, June 2024 - August 2024
+
+**Visiting Researcher**\
+Max Planck Institute for Mathematics in the Sciences, June 2023 - August 2023
+
+**Undergraduate Researcher**\
+University of Minnesota, Algebra/Combinatorics REU, June 2020 - August 2020
+
+**Undergraduate Researcher**\
+Moravian University, Computational/Experimental Math REU, June 2019 - August 2019
+
+# Publications
 
 1) *Bounds for the smallest eigenvalue of the NTK for arbitrary spherical data of arbitrary dimension*\
 **Kedar Karhadkar**, Michael Murray, and Guido Montúfar. NeurIPS 2024. Preprint: [arXiv:2405.14630](https://arxiv.org/abs/2405.14630).
