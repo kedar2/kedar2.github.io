@@ -83,11 +83,11 @@ author:
   name             : "Kedar Karhadkar"
   avatar           : "profile.png"
   bio              : "Math PhD student at UCLA"
-  location         : "Los Angeles, CA"
+  location         :
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=WVdm3mQAAAAJ&hl=en"
-  email            : "kedar@math.ucla.edu"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
