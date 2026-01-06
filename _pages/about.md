@@ -6,5 +6,4 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year math PhD student at UCLA working with [Guido Montúfar](https://www.math.ucla.edu/~montufar/). I'm interested in deep learning theory. Optimization and generalization in neural networks are sometimes nicer than one might expect. I've worked towards understanding this by characterizing how optimization and generalization are influenced by the relative scaling of parameter count, dataset size, and dataset dimensionality.
-
+I am a quantitative researcher at [G-Research](https://www.gresearch.com/). Before this, I earned my PhD in mathematics from UCLA, where I was fortunate to be advised by [Guido Montúfar](https://www.math.ucla.edu/~montufar/). My PhD research was on the mathematical theory of neural networks, and in particular understanding optimization and generalization under moderate-dimensional scaling of parameterization, dataset dimensionality, and sample size.

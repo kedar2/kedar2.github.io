@@ -8,12 +8,15 @@ author_profile: true
 # Education
 
 **PhD in Mathematics**\
-University of California, Los Angeles, August 2021 - Present 
+University of California, Los Angeles, August 2021 - December 2025 
 
 **Bachelor of Science in Mathematics**\
 Penn State University, August 2017 - May 2021
 
 # Experience
+
+**Quantitative Researcher**\
+G-Research, January 2026 - Present
 
 **Machine Learning Engineering Intern**\
 Meta, June 2025 - September 2025
@@ -34,8 +37,11 @@ Moravian University, Computational/Experimental Math REU, June 2019 - August 201
 
 Asterisk (\*) indicates equal contribution.
 
+- *Implicit Bias and Invariance: How Hopfield Networks Efficiently Learn Graph Orbits*\
+Michael Murray, Tenzin Chan, **Kedar Karhadkar**, and Christopher Hillar. Preprint: [arxiv:2512.14338](http://arxiv.org/abs/2512.14338)
+
 - *Zero-Shot Context Generalization in Reinforcement Learning from Few Training Contexts*\
-James Chapman\*, **Kedar Karhadkar**\*, and Guido Montúfar. Preprint: [arxiv:2507.07348](http://arxiv.org/abs/2507.07348).
+James Chapman\*, **Kedar Karhadkar**\*, and Guido Montúfar. NeurIPS 2025. Preprint: [arxiv:2507.07348](http://arxiv.org/abs/2507.07348).
 
 -  *Bounds for the smallest eigenvalue of the NTK for arbitrary spherical data of arbitrary dimension*\
 **Kedar Karhadkar**, Michael Murray, and Guido Montúfar. NeurIPS 2024. Preprint: [arXiv:2405.14630](https://arxiv.org/abs/2405.14630).
